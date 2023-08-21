@@ -1,4 +1,4 @@
-# H4KER News
+![H4KER-News](https://socialify.git.ci/andremporto/H4KER-News/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
 A H4KER News app feed made in SwiftUI for the devs.
 
